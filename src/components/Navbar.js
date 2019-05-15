@@ -24,7 +24,7 @@ export default class Navbar extends Component {
             </Link>
             <button
               type="button"
-              className="nav-button"
+              className="nav-btn"
               onClick={this.handleToggle}
             >
               <FaAlignRight className="nav-icon" />
